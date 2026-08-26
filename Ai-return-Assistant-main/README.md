@@ -145,12 +145,5 @@ This project demonstrates how modern AI systems can:
 
 ---
 
-## 👨‍💻 Author
-
-**Deepanshu Sehgal**
-Full Stack Developer | Backend & DevOps Enthusiast
-
-* GitHub: [https://github.com/Deepanshu-Sehgal](https://github.com/Deepanshu-Sehgal)
-* LinkedIn: [https://linkedin.com/in/deepanshu-sehgal01](https://linkedin.com/in/deepanshu-sehgal01)
 
 ---
